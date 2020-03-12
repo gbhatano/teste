@@ -1,2 +1,2 @@
-#documentacao
+documentacao
 pasta para arquivos como java, etc...
